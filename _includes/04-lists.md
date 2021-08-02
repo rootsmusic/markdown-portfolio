@@ -9,5 +9,5 @@
   * Item 2a  
   * Item 2b  
 - [ ] Additional markup is supported, including @mentions, #references, [links](url), **emphasis**, and <del>HTML tags</del>.  
-- [ ] List syntax is required.  
+- [X] List syntax is required.  
   - You can nest lists below, too!
