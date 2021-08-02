@@ -1,6 +1,5 @@
 ---
-title: "Welcome to my blog"
-
+layout: default
 ---
 
 {% include 01-name.md %}
